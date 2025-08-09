@@ -1,21 +1,25 @@
-<!-- Animated Glitch Text Header -->
+<!-- Hero Header with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=35&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rahul+👋;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=35&pause=500&color=00FFD1&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Rahul+👋;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Rahul R" />
 </h1>
 
----
-
-### 💫 About Me
-- 🎓 **AI & Data Science** student @ *V.S.B. College of Engineering Technical Campus*
-- 🏆 **20+ Certifications** from *Oracle, IBM, Google, Accenture, Infosys, Tata, Udemy, CodeChef*
-- 💡 Passionate about **AI, Web Development, Data Analytics, UI/UX**
-- 📌 Skilled in **Python, Java, SQL, Power BI, Figma**
-- ☁ Currently learning **Cloud & DevOps**
-- ✨ Motto: *“Stop Restart — Everything Will Be Fine”*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul311-R&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-### 🛠 Tech Arsenal
+## 💫 About Me
+🎓 **AI & Data Science Engineering** student @ *V.S.B. College of Engineering Technical Campus*  
+🏆 **20+ Certifications** from *Oracle, IBM, Google, Accenture, Infosys, Tata, Udemy, CodeChef*  
+💡 Passionate about **AI, Web Development, Data Analytics, UI/UX**  
+📌 Skilled in **Python, Java, SQL, Power BI, Figma**  
+☁ Learning **Cloud & DevOps** concepts  
+✨ Motto: *“Stop Restart — Everything Will Be Fine”*
+
+---
+
+## 🚀 Skills & Tools
 
 **Languages & Frameworks**  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)  
@@ -35,32 +39,34 @@
 
 ---
 
-### 📜 My Certifications
-- [Oracle Cloud Certified](#)
-- [IBM UI/UX & Cloud](#)
-- [Google Data Analytics](#)
-- [Tata Data Visualization](#)
-- [Accenture Data Analytics Job Simulation](#)
-- [Power BI (Udemy & Sathish Dhawale)](#)
-- [Python (CodeChef, Udemy, Great Learning)](#)
-- [SEO Fundamentals](#)
-- [Infosys Digital Marketing](#)
-- [Figma Design (Simplilearn, LottieFiles)](#)
-- [Excel (Goldman Sachs, Simplilearn)](#)
-- [Vault of Code Internship - Web Development](#)
+## 📜 Certifications (Click to View)
+🎓 [Oracle Cloud Certified](#)  
+🎓 [IBM UI/UX & Cloud](#)  
+🎓 [Google Data Analytics](#)  
+🎓 [Tata Data Visualization](#)  
+🎓 [Accenture Data Analytics Job Simulation](#)  
+🎓 [Power BI (Udemy & Sathish Dhawale)](#)  
+🎓 [Python (CodeChef, Udemy, Great Learning)](#)  
+🎓 [SEO Fundamentals](#)  
+🎓 [Infosys Digital Marketing](#)  
+🎓 [Figma Design (Simplilearn, LottieFiles)](#)  
+🎓 [Excel (Goldman Sachs, Simplilearn)](#)  
+🎓 [Vault of Code Internship - Web Development](#)  
 
 ---
 
-### 🌟 Projects Showcase
-- **Customer Travel Experience App (Acme Airlines)** — Prototype app to enhance travel experience  
-- **Data Visualization Dashboards** — Created with *Power BI* for business insights  
-- **Responsive Web Portfolios** — Built with *HTML, CSS, JavaScript*  
+## 🌟 Featured Projects
+| Project | Tech Stack | Preview |
+|---------|------------|---------|
+| **Customer Travel Experience App (Acme Airlines)** | Java, XML, Firebase | ![Preview](https://via.placeholder.com/200x120) |
+| **Data Visualization Dashboards** | Power BI, Excel | ![Preview](https://via.placeholder.com/200x120) |
+| **Responsive Web Portfolios** | HTML, CSS, JS | ![Preview](https://via.placeholder.com/200x120) |
 
-🔗 [View all projects](https://github.com/Rahul311-R?tab=repositories)
+🔗 [View All Projects](https://github.com/Rahul311-R?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats & Streaks
+## 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul311-R&theme=tokyonight" alt="streak stats"/>
   <br/>
@@ -71,23 +77,27 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rahul311-R&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul311-R&theme=react-dark" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 📬 Connect With Me
 <p align="center">
   <a href="mailto:rahul5341r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rahul-r531/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Rahul311-R"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+⭐ **"Stop Restart — Everything Will Be Fine"**

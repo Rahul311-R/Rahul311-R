@@ -1,7 +1,9 @@
 <!-- Hero Header with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=35&pause=500&color=00FFD1&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Rahul+👋;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Rahul R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=35&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rahul+👋;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Rahul R" />
 </h1>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rahul311-R&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />

@@ -1,6 +1,6 @@
 <!-- Hero Header with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=35&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rahul+👋;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Rahul R" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rahul+👋;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Rahul R" />
 </h1>
 
 <p align="center">
@@ -57,6 +57,13 @@
   <img src="https://streak-stats.demolab.com?user=Rahul311-R&theme=tokyonight" alt="streak stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul311-R&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul311-R&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---

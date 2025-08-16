@@ -1,6 +1,6 @@
 <!-- Hero Header with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rahul+👋;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Rahul R" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rahul+;AI+%26+Data+Science+Engineer;Web+Developer+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Tech+Explorer" alt="Rahul R" />
 </h1>
 
 <p align="center">
@@ -9,17 +9,17 @@
 
 ---
 
-## 💫 About Me
-- 🎓 **AI & Data Science Engineering** student @ *V.S.B. College of Engineering Technical Campus*  
-- 🏆 **20+ Certifications** from *Oracle, IBM, Google, Accenture, Infosys, Tata, Udemy, CodeChef*  
-- 💡 Passionate about **AI, Web Development, Data Analytics, UI/UX**  
-- 📌 Skilled in **Python, Java, SQL, Power BI, Figma**  
-- ☁ Learning **Cloud & DevOps** concepts  
-- ✨ Motto: *"Keep Building. Keep Exploring."*
+##  About Me
+-  **AI & Data Science Engineering** student @ *V.S.B. College of Engineering Technical Campus*  
+-  **20+ Certifications** from *Oracle, IBM, Google, Accenture, Infosys, Tata, Udemy, CodeChef*  
+-  Passionate about **AI, Web Development, Data Analytics, UI/UX**  
+-  Skilled in **Python, Java, SQL, Power BI, Figma**  
+-  Learning **Cloud & DevOps** concepts  
+-  Motto: *"Keep Building. Keep Exploring."*
 
 ---
 
-## 🚀 Skills & Tools
+##  Skills & Tools
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - Oracle Cloud Certified  
 - IBM UI/UX & Cloud  
 - Google Data Analytics  
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rahul311-R&theme=tokyonight" alt="streak stats"/>
   <br/>
@@ -61,14 +61,14 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul311-R&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="mailto:rahul5341r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rahul-r531/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
